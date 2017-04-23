@@ -1,0 +1,13 @@
+Git hub commands:-
+for adding
+git add . (to add the change)
+git push (to push the commit)
+git checkout "branch name" (for switching branch)
+git status (for checking status)
+git branch (to see the on which branch)
+git commit -m origin "message" (to commit the change)
+git push 
+for merge:-
+git merge "branch name" (to merge two branchs)
+git push 
+git push 
